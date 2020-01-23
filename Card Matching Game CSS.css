@@ -1,0 +1,101 @@
+body {
+    margin:0px 0px;
+    transition:0.2s;
+}
+/* Top menu div starts*/
+
+#Top {
+    background-color:navy;
+    height:9rem;  
+}
+
+#Title {
+    color:#f5b942;
+    margin:0px auto; 
+    width:42rem;
+    padding-top:2rem;
+    font-size:4.0rem;
+    font-family:"Calibri";
+    font-weight:500;
+    text-align:center;
+}
+/* Top menu div ends*/
+
+
+/* Bar menu starts */
+
+#Bar {
+    height:3rem;
+    background-color:#f5b942;
+    text-align:center;
+}
+
+#continue {
+    margin:2rem;
+    color:black;
+    font-family:"Calibri";
+    font-size:1.5rem;
+}
+
+#points {
+    margin:2rem;
+    color:black;
+    font-family:"Calibri";
+    font-size:1.5rem;
+}
+
+.Buttons {
+    border:none;
+    background-color:#f5b942;
+    outline:none;
+    height:100%;
+    transition:1s;
+    font-family:"Calibri";
+    font-weight:600;
+    font-size:1.4rem;
+}
+
+#startOver {
+    margin-right:2rem;
+}
+
+#Hard {
+    background-color:pink ;
+}
+
+
+.p1 {
+    padding-right:1rem;
+    padding-left:1rem;
+    margin-left:0;
+    margin-right:0;
+}
+
+/* Bar menu ends */
+.Holders {
+    color:white;
+    height:150px;
+    width:441px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.box {
+    height:8rem;
+    background-color:#f5b942;
+    width:100px;
+    margin-top:10px;
+    margin-left:5px;
+    margin-right:5px;
+    float:left;
+    border-radius: 8%;
+    display:block;
+    text-align:center;    
+    font-family:"Calibri";
+    font-size: 90px;
+    color:#f5b942;
+    transition:0.7s;
+    border:0px;
+}
+
+

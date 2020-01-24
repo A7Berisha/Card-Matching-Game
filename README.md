@@ -3,8 +3,10 @@ A basic number matching game built using HTML, CSS, JavaScript, jQuery.
 Inspired by the RGB Guessing Game by Colte Steele.
 
 Getting Started: 
--To get started, download the ZIP file and open the CSS file, the jQuery file and JavaScript file
+-To get started, download the ZIP file and open the CSS file, the jQuery file and JavaScript file, they can just be immediately closed afterwards
+
 -After that open the "Card matching game" html file in a browser of your choice
+
 -Play away!
 
 Rules and Overview: 

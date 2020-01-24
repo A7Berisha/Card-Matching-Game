@@ -10,10 +10,14 @@ Getting Started:
 -Play away!
 
 Rules and Overview: 
--To play, match the cards that have the same number 
--Match all the cards or get the points to zero 
+-To play, match the cards that have the same number
+
+-Match all the cards or get the points to zero
+
 -Click to select the difficulty (naturally on hard)
+
 -Click start over to reset the cards
+
 -Have fun!
 
 Note: I do not own the jQuery file.It is only included for ease of use. It can be found on https://jquery.com/download/ .
